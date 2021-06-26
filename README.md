@@ -2,7 +2,7 @@
 ```
 
 Aplicacion de integracion numerica y derivacion numerica por diferencias divididas.
-Los scripts y el archivo Data.txt deben estar en la misma carpeta para que el programa se ejecute correstamente.
+Los scripts y el archivo Data.txt deben estar en la misma carpeta para que el programa se ejecute correctamente.
 
 ```
 
